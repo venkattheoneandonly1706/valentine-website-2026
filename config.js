@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My PappPapp once more? 💝",
+    pageTitle: "My pap-papp💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Tell me babe, am I a your cutieeeee!?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "You are not my cutiee you are my cutaaaa! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "How big of a cutaaa am I?",                          // For the love meter
+            startText: "Bas itna hi🥲😔!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Soo tell me my babygirlll will you be my valentine (my pappap) on this 14th🥹🥹👉👈? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW I am such a cutaaaa😭😭😛🤗😍🥰🚀💝??",  // Shows when they go past 5000%
+        high: "More than 3000🤔🤔! 🚀💝",              // Shows when they go past 1000%
+        normal: "Awww I am a double cutaaa! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yayyyy I will be with my baeeee veryyy sooooon🤗😘You are the bestttttttt! 🎉💝💖💝💓",
+        message: "Now here is your gift cutiee🎁Infinite kissiesss and hugss from you cutaaaaaa!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
