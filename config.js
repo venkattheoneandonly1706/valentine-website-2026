@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Tell me babe, am I a your cutieeeee!?",                                    // First interaction
+            text: "Tell me babe, am I your cutieeeee!?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "You are not my cutiee you are my cutaaaa! ❤️"           // Secret hover message
